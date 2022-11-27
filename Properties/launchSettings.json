@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionAppSwagger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7024",
+      "launchBrowser": false
+    }
+  }
+}
